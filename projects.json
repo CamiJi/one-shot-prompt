@@ -160,5 +160,14 @@
         "author": "GromNaN",
         "gemini_url": "doctrine-project.html",
         "original_url": "https://www.doctrine-project.org/"
+    },
+    {
+        "id": "cegos",
+        "name": "cegos.fr",
+        "description": "Leader de la formation continue",
+        "icon": "🐘",
+        "author": "Camille Aubert",
+        "gemini_url": "cegos.html",
+        "original_url": "https://www.cegos.fr/"
     }
 ]
